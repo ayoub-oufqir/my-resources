@@ -46,6 +46,9 @@ npx tailwindcss -i ./src/source.css -o ./public/styles.css --watch
   <img src="https://user-images.githubusercontent.com/76181917/200899766-85a382d4-ed5c-46c6-9c40-102c511d72c6.png" width="200">
 </div>
 
+***
 
+### Other
+[MarkDown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
 
