@@ -41,13 +41,34 @@ npx tailwindcss -i ./src/source.css -o ./public/styles.css --watch
 ***
 
 ### TaiWind Cheat sheet
-[Tailwind CSS Cheat Sheet](https://tailwindcomponents.com/cheatsheet/)
-<div>
-  <img src="https://user-images.githubusercontent.com/76181917/200899766-85a382d4-ed5c-46c6-9c40-102c511d72c6.png" width="200">
-</div>
+[Tailwind CSS free Templates Components and Resources](https://www.tailwindtoolbox.com/)
 
 ***
+[youtube video explaining the following resources:](https://www.youtube.com/watch?v=CCgpk64orZo)
+***
+### Tailwind toolbox
+[Tailwind CSS Cheat Sheet](https://tailwindcomponents.com/cheatsheet/)
 
+***
+### Tail Blocks
+[Free tailwind reusable blocks](https://tailblocks.cc/)
+
+***
+### transform code
+[let's you transform code from to (HTML to JSX, CSS to Tailwind ....)](https://tailblocks.cc/)
+
+***
+### tailwind debug screens
+[let's you know which screen size you're in (sm, md, lg ..) ](https://github.com/jorenvanhee/tailwindcss-debug-screens)
+
+***
+### tailwind brand colors
+[gives you brands colors (facebook, twitch, twitter ...)](https://github.com/praveenjuge/tailwindcss-brand-colors)
+***
+### generate gradients
+[let's you generate custom gradients for your website](https://gradient-designer.csspost.com/)
+
+***
 ### Other
 [MarkDown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
