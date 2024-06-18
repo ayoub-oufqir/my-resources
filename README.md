@@ -68,6 +68,10 @@ npx tailwindcss -i ./src/source.css -o ./public/styles.css --watch
 ### generate gradients
 [let's you generate custom gradients for your website](https://gradient-designer.csspost.com/)
 
+### websites:
+CS notes Java: https://www.cyc2018.xyz/Java/
+Advanced Java: https://doocs.github.io/advanced-java/#/
+
 ***
 ### Other
 [MarkDown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
